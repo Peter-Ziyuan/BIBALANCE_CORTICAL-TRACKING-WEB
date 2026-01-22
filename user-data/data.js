@@ -4,7 +4,7 @@ const data ={
     "I specialize in component architecture, performance optimization, and modern frontend tooling like Storybook, Stencil, and Module Federation. I actively leverage GitHub Copilot and OpenAI APIs to accelerate UI development, automate workflows, and improve developer productivity.",
     "I’m passionate about clean code, mentoring, and driving engineering excellence through collaboration, automation, and continuous improvement."
   ],
-  "skills": [
+  "dyslexia": [
     "JavaScript",
     "TypeScript",
     "Angular",
@@ -36,7 +36,7 @@ const data ={
     "ESLint",
     "Prettier"
   ],
-  "experience": [
+  "MEG&MRI": [
     {
       "title": "SS&C Technologies",
       "duration": "August 2025 - Present",

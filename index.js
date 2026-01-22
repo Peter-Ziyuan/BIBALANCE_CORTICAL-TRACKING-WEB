@@ -1,7 +1,7 @@
 import {
   bio,
-  skills,
-  education,
+  dyslexia,
+  MEG&MRI,
   experience,
   footer,
   contactLinks,
